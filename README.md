@@ -1,6 +1,6 @@
 # ThAmCo Order Fulfilment Microservice
 
-> Originally developed as part of the Cloud Computing DevOps module in the Computer Science programme.
+> Originally developed as part of the Cloud Computing DevOps module in the Computer Science Course.
 
 This project is part of the ThAmCo Order subsystem.
 It fulfils its job as a microservice marking orders as fulfilled.
